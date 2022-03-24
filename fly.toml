@@ -1,0 +1,7 @@
+# fly.toml file generated for serf-test on 2022-03-24T14:07:35+01:00
+
+app = "serf-test"
+
+[experimental]
+  allowed_public_ports = []
+  private_network = true
