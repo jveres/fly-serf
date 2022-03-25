@@ -3,6 +3,7 @@
 ```sh
 fly launch --no-deploy
 fly regions set fra
+fly regions backup set
 fly deploy
 ```
 
